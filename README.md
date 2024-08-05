@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey!+Nice+to+see+you.)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hey!+Nice+to+see+you.)](https://git.io/typing-svg)
 ==============================================================================================================================
 
 I'm Sergei, Frontend developer from Russia.
